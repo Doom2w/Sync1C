@@ -113,6 +113,7 @@
 		</Properties>
 		<ChildObjects>
 			<Language>Русский</Language>
+			<Document>ПервыйДокумент</Document>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>

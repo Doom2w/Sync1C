@@ -1,2 +1,4 @@
 ﻿Configuration.xml-->Configuration.xml
+Documents\ПервыйДокумент.xml-->Documents\ПервыйДокумент.xml
+Documents\ПервыйДокумент\Ext\ObjectModule.bsl-->Documents\ПервыйДокумент\Ext\ObjectModule.bsl
 Languages\Русский.xml-->Languages\Русский.xml
