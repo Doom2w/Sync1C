@@ -6,6 +6,7 @@ Catalogs\Номенклатура\Forms\ФормаЭлемента.xml-->Catalog
 Catalogs\Номенклатура\Forms\ФормаСписка\Ext\Form.xml-->Catalogs\Номенклатура\Forms\ФормаСписка\Ext\Form.xml
 Catalogs\Номенклатура\Forms\ФормаЭлемента\Ext\Form.xml-->Catalogs\Номенклатура\Forms\ФормаЭлемента\Ext\Form.xml
 Catalogs\Номенклатура\Forms\ФормаЭлемента\Ext\Form\Module.bsl-->Catalogs\Номенклатура\Forms\ФормаЭлемента\Ext\Form\Module.bsl
+DataProcessors\НоваяОбработка.xml-->DataProcessors\НоваяОбработка.xml
 Documents\ПервыйДокумент.xml-->Documents\ПервыйДокумент.xml
 Documents\ПервыйДокумент\Ext\ObjectModule.bsl-->Documents\ПервыйДокумент\Ext\ObjectModule.bsl
 Languages\Русский.xml-->Languages\Русский.xml

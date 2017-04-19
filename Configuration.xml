@@ -115,6 +115,7 @@
 			<Language>Русский</Language>
 			<Catalog>Номенклатура</Catalog>
 			<Document>ПервыйДокумент</Document>
+			<DataProcessor>НоваяОбработка</DataProcessor>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
